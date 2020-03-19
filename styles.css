@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.container {
+    width: 1180px;
+    margin: 100px auto;
+}
+
+.tien-ich {
+    margin: 5px 10px;
+}
+
+.tieu-de {
+    background-color: #00ACC1;
+    display: inline-block;
+    padding: 2px 5px;
+    color: white;
+}
+
+.tien-ich ul {
+    border-top: 1px solid #00ACC1;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.tien-ich ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 3px 3px 3px 30px;
+}
+
+.tien-ich ul li a:hover {
+    text-decoration: none;
+    color: #00ACC1;
+    text-shadow: 1px 0px #00ACC1;
+}
+
+.tien-ich ul li {
+    flex-basis: 25%;
+    height: 40px;
+    line-height: 40px;
+    background-image: url(icon.png);
+    background-repeat: no-repeat;
+    background-position: 0px -4px;
+}
+
+.tien-ich ul li:nth-child(2) {
+    background-position: 0px -56px;
+}
+
+.tien-ich ul li:nth-child(3) {
+    background-position: 0px -108px;
+}
+
+.tien-ich ul li:nth-child(4) {
+    background-position: 0px -160px;
+}
+
+.tien-ich ul li:nth-child(5) {
+    background-position: 0px -212px;
+}
+
+.tien-ich ul li:nth-child(6) {
+    background-position: 0px -264px;
+}
+
+.tien-ich ul li:nth-child(7) {
+    background-position: 0px -316px;
+}
+
+.tien-ich ul li:nth-child(8) {
+    background-position: 0px -368px;
+}
+
+.tien-ich ul li:nth-child(9) {
+    background-position: 0px -420px;
+}
+
+.tien-ich ul li:nth-child(10) {
+    background-position: 0px -472px;
+}
+
+.tien-ich ul li:nth-child(11) {
+    background-position: 0px -524px;
+}
+
+.tien-ich ul li:nth-child(12) {
+    background-position: 0px -576px;
+}
+
+.tien-ich ul li:nth-child(13) {
+    background-position: 0px -628px;
+}
+
+.tien-ich ul li:nth-child(14) {
+    background-position: 0px -680px;
+}
+
+.tien-ich ul li:nth-child(15) {
+    background-position: 0px -732px;
+}
+
+.tien-ich ul li:nth-child(16) {
+    background-position: 0px -784px;
+}
+
+.tien-ich ul li:nth-child(17) {
+    background-position: 0px -836px;
+}
+
+.tien-ich ul li:nth-child(18) {
+    background-position: 0px -888px;
+}
+
+.tien-ich ul li:nth-child(19) {
+    background-position: 0px -930px;
+}
